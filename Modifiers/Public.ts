@@ -12,7 +12,7 @@ class Bank
     Bankdetails() : void
     {
         console.log("in method " +this.accountno);
-        //console.log("in method " +this.password);
+      //console.log("in method " +this.password);
     }
 }
 class UnionBank extends Bank
